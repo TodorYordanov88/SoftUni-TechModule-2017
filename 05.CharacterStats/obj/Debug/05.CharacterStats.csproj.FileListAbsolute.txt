@@ -1,0 +1,6 @@
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\05.CharacterStats\obj\Debug\05.CharacterStats.csprojResolveAssemblyReference.cache
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\05.CharacterStats\bin\Debug\05.CharacterStats.exe.config
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\05.CharacterStats\bin\Debug\05.CharacterStats.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\05.CharacterStats\bin\Debug\05.CharacterStats.pdb
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\05.CharacterStats\obj\Debug\05.CharacterStats.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\05.CharacterStats\obj\Debug\05.CharacterStats.pdb

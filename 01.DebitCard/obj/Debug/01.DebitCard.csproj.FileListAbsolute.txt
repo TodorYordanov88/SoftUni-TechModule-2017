@@ -1,0 +1,6 @@
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\01.DebitCard\bin\Debug\01.DebitCard.exe.config
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\01.DebitCard\bin\Debug\01.DebitCard.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\01.DebitCard\bin\Debug\01.DebitCard.pdb
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\01.DebitCard\obj\Debug\01.DebitCard.csprojResolveAssemblyReference.cache
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\01.DebitCard\obj\Debug\01.DebitCard.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\01.DebitCard\obj\Debug\01.DebitCard.pdb

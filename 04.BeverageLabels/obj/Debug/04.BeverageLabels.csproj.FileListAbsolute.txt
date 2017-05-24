@@ -1,0 +1,5 @@
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe.config
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\04.BeverageLabels\bin\Debug\04.BeverageLabels.pdb
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\04.BeverageLabels\obj\Debug\04.BeverageLabels.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2017\Projects\SoftUniTechModule2017\SoftUni-TechModule-2017\04.BeverageLabels\obj\Debug\04.BeverageLabels.pdb
